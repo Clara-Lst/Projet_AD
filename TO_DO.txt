@@ -1,0 +1,26 @@
+Les individus sont des mois : nb de passages par mois, retard moyen ect
+
+Prise de notes réu :
+    - Code en Python mais si on veut des beaux graphes faire en R
+    - Bien commenter le notebook
+    - Bien nettoyer les données avant de commencer
+    - Regarder les analyse sur leur site
+
+Analyse qu'on peut faire :
+    - Se poser de bonnes questions, pas trop général
+    - Prendre un trajet et faire une AFM par année
+    - Prendre une gare et voir si ya plus de retard sur une gare en particulier
+    - Mettre les resultats en perspectutive avec l'actualité du moment choisi
+    (- Base de données avec des prix ?)
+    - Analyse par saison --> Vacances, grêves
+    - Proba de retard sur un trajet
+    - Train qui rattrapent leur retard
+    - Quel est le trajet le plus fiable / le moins fiable
+
+A FAIRE :
+    - Nettoyer données -----------------> 
+    - Créer des dataframes différents -->
+    - Analyse descriptive --------------> 
+
+    - Prendre un trajet et faire une AFM par année ------------------------------->
+    - Prendre une gare et voir si ya plus de retard sur une gare en particulier -->
