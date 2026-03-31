@@ -25,3 +25,9 @@ A FAIRE :
 
     - Prendre un trajet et faire une AFM par année ------------------------------->
     - Prendre une gare et voir si ya plus de retard sur une gare en particulier -->
+
+Réunion du 31 :
+    - Ali : Faire une PCA 
+    - Clara : Clustering sur PCA
+    - Chloé : Interprétation des résultats (PCA, Cluster et analyse descriptive) + mise au propre
+    - Alex : Prendre un trajet et faire une AFM par année
