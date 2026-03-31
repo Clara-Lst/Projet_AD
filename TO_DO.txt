@@ -18,16 +18,10 @@ Analyse qu'on peut faire :
     - Train qui rattrapent leur retard
     - Quel est le trajet le plus fiable / le moins fiable
 
-A FAIRE :
-    - Nettoyer données -----------------> 
-    - Créer des dataframes différents -->
-    - Analyse descriptive --------------> 
-
-    - Prendre un trajet et faire une AFM par année ------------------------------->
-    - Prendre une gare et voir si ya plus de retard sur une gare en particulier -->
 
 Réunion du 31 :
-    - Ali : Faire une PCA 
+    - Ali : Faire une PCA -------------------------------------------------------------------------> DONE
+            Faire 2eme avec seulement les pourcentages ?
     - Clara : Clustering sur PCA
     - Chloé : Interprétation des résultats (PCA, Cluster et analyse descriptive) + mise au propre
     - Alex : Prendre un trajet et faire une AFM par année
