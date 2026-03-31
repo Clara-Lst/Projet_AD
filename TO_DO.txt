@@ -1,4 +1,5 @@
 Les individus sont des mois : nb de passages par mois, retard moyen ect
+Un individus représente l'ensemble des trajets entre 2 gares sur un mois 
 
 Prise de notes réu :
     - Code en Python mais si on veut des beaux graphes faire en R
